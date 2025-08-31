@@ -37,7 +37,7 @@ written using specialized testing tool/framework such as Jira.
 E) Execute test cases and analyze the results, and document the bugs revealed.
 
 F) Test Automation:
-Identify suitable test cases for automation. Using . Each student 
+Identify suitable test cases for automation. Using selenium ide . Each student 
 should implement two automated test on the GUI for certain scenario.
 
 G) Performance and load Testing:
